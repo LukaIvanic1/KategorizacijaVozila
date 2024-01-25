@@ -1,0 +1,10 @@
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\bin\Debug\vozila_zadatak.exe.config
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\bin\Debug\vozila_zadatak.exe
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\bin\Debug\vozila_zadatak.pdb
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.csproj.AssemblyReference.cache
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.Properties.Resources.resources
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.exe
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.pdb
+C:\Users\Luka\source\repos\vozila_zadatak\vozila_zadatak\obj\Debug\vozila_zadatak.Form1.resources
